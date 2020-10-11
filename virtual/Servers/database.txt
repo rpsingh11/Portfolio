@@ -1,0 +1,9 @@
+{'email': 'rahulprataps386@gmail.com', 'subject': 'Hiring You', 'message': 'You are really amazing\r\n'}{'email': 'ra@gmail.com', 'subject': 'nothing', 'message': 'nothing\r\n'}
+email: mymail@gmail.com, subject = this is a subject, message = nothing 
+email: mymail@gmail.com, subject = this is a subject, message = nothing 
+email: mymail@gmail.com, subject = this is a subject, message = nothing 
+email: mymail@gmail.com, subject = this is a subject, message = nothing 
+email: mymail@gmail.com, subject = this is a subject, message = nothing 
+email: mymail@gmail.com, subject = this is a subject, message = nothing 
+email: mymail@gmail.com, subject = this is a subject, message = nothing 
+email: mymail@gmail.com, subject = this is a subject, message = nothing 
